@@ -1,0 +1,18 @@
+
+body {
+  background-color: blanchedalmond;
+}
+
+#h1_element { 
+  color: blue;
+  font-size: 30px;
+  text-decoration: double;
+}
+
+.button {
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
